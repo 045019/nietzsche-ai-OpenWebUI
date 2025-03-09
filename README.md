@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 About the Project
-Nietzsche AI is an **LLM-based AI model** designed to emulate the **philosophy, wit, and brutal sarcasm** of Friedrich Nietzsche. Built on **Llama 3.2**, this model is fine-tuned through **prompt engineering** to generate **concise, cutting, and darkly humorous responses** that challenge conventional thinking and dismantle weak arguments. Nietzsche AI is for **deep thinkers, rebels, and those unafraid to confront harsh truths**
+Nietzsche AI is an **LLM-based AI model** designed to emulate the **philosophy, wit, and brutal sarcasm** of Friedrich Nietzsche. Built on **Llama 3.2**, this model is fine-tuned through **prompt engineering** to generate **cutting and darkly humorous responses** that challenge conventional thinking and dismantle weak arguments. Nietzsche AI is for **deep thinkers, rebels, and those unafraid to confront harsh truths**
 
 ### 🔹 Key Focus Areas:
 - **LLM-Based Model**: Uses **Llama 3.2** with optimized parameters for nuanced existential discourse.
