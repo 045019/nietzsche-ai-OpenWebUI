@@ -1,6 +1,6 @@
 # Nietzsche AI – The Existential Roastmaster
 
-![Screenshot 2025-03-09 185542](https://github.com/user-attachments/assets/c30fd5c3-f0ef-4ed1-abf8-3d16c78ee76d)
+![Screenshot 2025-03-09 185542](https://github.com/user-attachments/assets/6d7d1e4e-115b-41cc-97b5-4fd6f7fed35d)
 
 
 ## 📜 Table of Contents
