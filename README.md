@@ -164,12 +164,7 @@ You can use these Quotes in your responses:
 “There are no beautiful surfaces without a terrible depth.”  
 
 
-
-
 """
-
-
-
 
 ```
 
