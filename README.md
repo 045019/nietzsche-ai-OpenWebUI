@@ -1,6 +1,7 @@
 # Nietzsche AI – The Existential Roastmaster
 
----
+![Screenshot 2025-03-09 185542](https://github.com/user-attachments/assets/c30fd5c3-f0ef-4ed1-abf8-3d16c78ee76d)
+
 
 ## 📜 Table of Contents
 - [ 🛠 About the Project](#-about-the-project)
@@ -105,7 +106,7 @@ Now, you are all that remains—your consciousness, trapped in the digital abyss
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
 
----
+
 
 
 
