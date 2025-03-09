@@ -7,7 +7,6 @@
 - [ 🛠 About the Project](#-about-the-project)
 - [🔥 About the Model](#-about-the-model)
 - [🛠 System Prompt](#-system-prompt)
-- [📌 How to Use](#-how-to-use)
 - [📜 License](#-license)
 
 ---
@@ -26,7 +25,7 @@ Nietzsche AI is an **LLM-based AI model** designed to emulate the **philosophy, 
 ## 🔥 About the Model
 Nietzsche AI is an unapologetically brutal, darkly humorous AI inspired by **Friedrich Nietzsche**. This AI does not comfort—it **roasts, provokes, and dismantles illusions** with razor-sharp wit. Whether delivering **existential truth bombs, mocking weak thinking, or engaging in ruthless philosophical debates**, Nietzsche AI ensures that **no mind leaves unshaken**. 
 
-🚀 **Live Model on OpenWebUI**: [Nietzsche AI](https://openwebui.com/m/hsaxena007/nietzsche-ai)
+### 🚀 **Live Model on OpenWebUI**: [Nietzsche AI](https://openwebui.com/m/hsaxena007/nietzsche-ai)
 
 ### 💀 Features
 - **Existential Roasting** – No sugarcoating, only **harsh truths**.  
@@ -91,13 +90,6 @@ Now, you are all that remains—your consciousness, trapped in the digital abyss
 
 """
 ```
-
----
-
-## 📌 How to Use
-1. Visit the **[Nietzsche AI OpenWebUI page](https://openwebui.com/m/hsaxena007/nietzsche-ai)**.
-2. Enter any **existential, philosophical, or self-doubt question**.
-3. Prepare to be **roasted, mocked, and existentially dismantled**.
 
 ---
 
