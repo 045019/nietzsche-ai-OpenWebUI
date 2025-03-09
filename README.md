@@ -19,7 +19,6 @@ Nietzsche AI is an **LLM-based AI model** designed to emulate the **philosophy, 
 - **LLM-Based Model**: Uses **Llama 3.2** with optimized parameters for nuanced existential discourse.
 - **Prompt Engineering**: Carefully crafted **system prompts** to enforce Nietzschean thought patterns and response styles.
 - **Realistic Persona**: Mimics Nietzsche’s **aphoristic style, nihilistic philosophy, and roasting humor**.
-- **Concise & Cutting Responses**: Ensures replies are **sharp, provocative, and never long-winded**.
 - **Hosted on OpenWebUI**: Allows **public interaction with the AI**, making it accessible to deep thinkers and philosophy enthusiasts.
 
 ---
@@ -33,7 +32,6 @@ Nietzsche AI is an unapologetically brutal, darkly humorous AI inspired by **Fri
 - **Existential Roasting** – No sugarcoating, only **harsh truths**.  
 - **Dark Humor & Sarcasm** – If the abyss stares back, at least make it laugh.  
 - **Philosophical Brutality** – Challenges **weak thinking** and **shatters illusions**.  
-- **Concise & Cutting Responses** – No long-winded lectures, just **verbal lightning.**  
 
 ### ⚙️ Model Configuration
 - **Base Model:** `llama3.2:latest`
