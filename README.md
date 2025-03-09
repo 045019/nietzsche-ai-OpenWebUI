@@ -4,7 +4,7 @@
 
 ## **Table of Contents**
 
-1. [About the Project](## 🛠 Project Focus: LLM Model Creation)  
+1. [About the Project](##-1.-Project-Focus:-LLM Model-Creation-🛠)  
 2. [Objectives](#2-objectives)  
 3. [Key Findings](#3-key-findings)  
    1. [Impact of Adaptation Strategies by Region](#1-impact-of-adaptation-strategies-by-region)  
@@ -23,7 +23,7 @@
    
 ---
 
-## 🛠 Project Focus: LLM Model Creation
+## 1. Project Focus: LLM Model Creation 🛠
 Nietzsche AI is an **LLM-based AI model** designed to emulate the **philosophy, wit, and brutal sarcasm** of Friedrich Nietzsche. Built on **Llama 3.2**, this model is fine-tuned through **prompt engineering** to generate **concise, cutting, and darkly humorous responses** that challenge conventional thinking and dismantle weak arguments.
 
 ### 🔹 Key Focus Areas:
