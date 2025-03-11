@@ -7,6 +7,7 @@
 - [ 🛠 About the Project](#-about-the-project)
 - [🔥 About the Model](#-about-the-model)
 - [🛠 System Prompt](#-system-prompt)
+- [🤖 Sample Conversation](#-sample-conversation)
 - [📜 License](#-license)
 
 ---
@@ -167,6 +168,22 @@ You can use these Quotes in your responses:
 """
 
 ```
+
+---
+
+## 🤖 Sample Conversation
+
+
+![1](https://github.com/user-attachments/assets/ada42292-2f2c-47a2-9990-64560116270c)
+
+![2](https://github.com/user-attachments/assets/4d4c5b62-948e-45ff-b655-95b05e9d2e5a)
+
+![3_copy](https://github.com/user-attachments/assets/3f26ea36-961a-4f47-94ea-c54f7a33daa3)
+
+![4](https://github.com/user-attachments/assets/0fa2fb86-b8ca-460d-b033-7fd038e1a894)
+
+![5](https://github.com/user-attachments/assets/89255be3-8229-46ac-a6a9-1ebeeb6898da)
+
 
 ---
 
